@@ -3440,3 +3440,73 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.20-23.40.25:291][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3235.096191, Update Interval: 308.635529
 [2025.01.20-23.42.29:030][606]Cmd: cls
 [2025.01.20-23.42.32:844][867]Cmd: cd..
+[2025.01.20-23.46.30:588][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3600.406494
+[2025.01.20-23.46.30:782][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.20-23.46.30:782][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3600.589600, Update Interval: 301.333038
+[2025.01.20-23.46.35:367][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.20-23.46.36:101][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-23.46.36:156][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.20-23.46.36:229][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.20-23.46.36:230][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.20-23.46.36:239][442]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.20-23.46.36:240][442]LogSavePackage: Moving '../../../../../../Projetos/Unreal/3p_unreal_learning/Saved/BP_ThirdPersonCharacter8DED438A4DE829D3FB58948C6120D278.tmp' to '../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.20-23.46.36:249][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.164 ms (total: 4.14 sec)
+[2025.01.20-23.46.36:287][442]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-23.46.36:287][442]LogContentValidation: Enabled validators:
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-23.46.36:287][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.20-23.46.36:287][442]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.20-23.46.38:628][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-23.46.38:685][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/CharacterConfig] ([1] browsable assets)...
+[2025.01.20-23.46.38:685][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/CharacterConfig]
+[2025.01.20-23.46.38:685][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/CharacterConfig" FILE="../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/CharacterConfig.uasset" SILENT=true
+[2025.01.20-23.46.38:686][635]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/CharacterConfig
+[2025.01.20-23.46.38:687][635]LogSavePackage: Moving '../../../../../../Projetos/Unreal/3p_unreal_learning/Saved/CharacterConfigFF4E678E4F09DE6DC1528EAED0814036.tmp' to '../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/CharacterConfig.uasset'
+[2025.01.20-23.46.38:693][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.616 ms (total: 4.20 sec)
+[2025.01.20-23.46.38:731][635]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-23.46.38:731][635]LogContentValidation: Enabled validators:
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-23.46.38:731][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.20-23.46.38:731][635]AssetCheck: /Game/ThirdPerson/Blueprints/CharacterConfig Validating asset
+[2025.01.20-23.46.44:175][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-23.46.44:227][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Utils] ([2] browsable assets)...
+[2025.01.20-23.46.44:227][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Utils]
+[2025.01.20-23.46.44:227][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Utils" FILE="../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/Utils.uasset" SILENT=true
+[2025.01.20-23.46.44:238][ 85]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Utils
+[2025.01.20-23.46.44:238][ 85]LogSavePackage: Moving '../../../../../../Projetos/Unreal/3p_unreal_learning/Saved/Utils019DACF04EF01AAC8E31B1B904E23515.tmp' to '../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/Utils.uasset'
+[2025.01.20-23.46.44:245][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.588 ms (total: 4.27 sec)
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: Enabled validators:
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-23.46.44:274][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.20-23.46.44:274][ 85]AssetCheck: /Game/ThirdPerson/Blueprints/Utils Validating asset
+[2025.01.20-23.46.48:329][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.20-23.46.48:385][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/DefeatPickup] ([2] browsable assets)...
+[2025.01.20-23.46.48:460][421]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/DefeatPickup.DefeatPickup]
+[2025.01.20-23.46.48:460][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/DefeatPickup]
+[2025.01.20-23.46.48:461][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/DefeatPickup" FILE="../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/DefeatPickup.uasset" SILENT=true
+[2025.01.20-23.46.48:466][421]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/DefeatPickup
+[2025.01.20-23.46.48:466][421]LogSavePackage: Moving '../../../../../../Projetos/Unreal/3p_unreal_learning/Saved/DefeatPickup26D8D96D4F337725A1851B86A961222C.tmp' to '../../../../../../Projetos/Unreal/3p_unreal_learning/Content/ThirdPerson/Blueprints/DefeatPickup.uasset'
+[2025.01.20-23.46.48:474][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.828 ms (total: 4.42 sec)
+[2025.01.20-23.46.48:510][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.20-23.46.48:510][421]LogContentValidation: Enabled validators:
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.20-23.46.48:510][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.20-23.46.48:510][421]AssetCheck: /Game/ThirdPerson/Blueprints/DefeatPickup Validating asset
+[2025.01.20-23.46.49:986][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
